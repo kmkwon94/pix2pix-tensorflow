@@ -5,7 +5,7 @@ from http.server import HTTPServer, SimpleHTTPRequestHandler
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--port", default=8000, type=int, help="port to listen on")
+    parser.add_argument("--port", default=80, type=int, help="port to listen on")
     args = parser.parse_args()
 
     os.chdir('static')
