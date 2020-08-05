@@ -27,3 +27,5 @@ RUN apt-get update && apt-get install -y \
 RUN python3 -m pip install --upgrade pip
 EXPOSE 80
 COPY . .
+WORKDIR /server
+CMD python3 serve.py
