@@ -4,9 +4,19 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
 [Article about this implemention](https://affinelayer.com/pix2pix/)
 
-[Interactive Demo](https://affinelayer.com/pixsrv/)
+[Original Interactive Demo](https://affinelayer.com/pixsrv/)
+
 
 Tensorflow implementation of pix2pix.  Learns a mapping from input images to output images, like these examples from the original paper:
+
+# Ainize
+
+Here is live demo which run on ainize
+
+Just click the button! 
+
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/kmkwon94/pix2pix-tensorflow)
+
 
 <img src="docs/examples.jpg" width="900px"/>
 
