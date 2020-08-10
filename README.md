@@ -15,7 +15,7 @@ Here is live demo which run on ainize
 
 Just click the button! 
 
-[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/kmkwon94/pix2pix-tensorflow)
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://pix2pix-tensorflow.kmkwon94.endpoint.ainize.ai)
 
 
 <img src="docs/examples.jpg" width="900px"/>
